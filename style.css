@@ -1,0 +1,121 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: auto;
+    background-color:blanchedalmond
+
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+   
+
+}
+
+.heart {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    color:black;
+   
+}
+  
+    
+
+.etiqueta {
+    color: red;
+    font-weight: bold;
+    margin-top: 50px;
+
+
+}
+
+h1 {
+    margin-top: -10px;
+}
+
+
+  
+
+h2 {
+    margin-top: -10px;
+    font-size: 25px;
+}
+
+
+.paragrafo {
+    
+    margin-top: -10px;
+    margin-bottom: 40px;
+}
+
+
+    
+
+
+p  {
+  margin-top: -15px;
+}
+.bompara {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+ul li {
+    margin-bottom: 1px;
+}
+ul {
+    margin-bottom: 40px;
+    list-style-type: disc;
+    margin-top: -15px;
+    padding-left: 22px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+figure {
+    margin:0px;
+}
+figcaption{
+    margin-top: 0;
+}
+    
+.destino img {
+    margin-bottom: 40px;
+}
+.azul {
+    color: #1E90FF;
+}
+
+.orange {
+    color: orangered
+}
+
+.verde {
+    color: green
+}
+.roxo {
+    color: #8A2BE2;
+}
+.vermelho {
+    color: #DC143C;
+}
+
+
+
+
+
+
+
+
+   
+
+
+
